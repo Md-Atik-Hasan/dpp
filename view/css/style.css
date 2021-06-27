@@ -1,0 +1,12 @@
+ label {
+        display: inline-block;
+        width: 90px;
+        padding: 6px;
+      }
+      button {
+        margin: 6px;
+      }
+      .error {
+        padding-left: 12px;
+        color: red;
+      }
